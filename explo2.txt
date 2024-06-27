@@ -1,2 +1,4 @@
 Test eksploracyjny nr 2
 Plik testowy 
+
+Dodatkowy opis testu
