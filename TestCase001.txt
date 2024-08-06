@@ -1,0 +1,6 @@
+Przypadki Testowy: Walidacja Pola Hasło w Formularzu Logowania
+ID Przypadku Testowego: TC001
+
+Tytuł: Weryfikacja funkcjonalności pola hasło w formularzu logowania
+
+Opis: Ten przypadek testowy weryfikuje, czy pole hasło działa poprawnie przy użyciu różnych typów danych wejściowych.
